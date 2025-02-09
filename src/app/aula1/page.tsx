@@ -287,6 +287,34 @@ export default function Aula1() {
           </div>
         </div>
 
+        {/* Imagens Section */}
+        <div className="mt-16">
+          <h2 className="text-2xl font-bold text-gray-800 mb-8">Imagens para o Agente</h2>
+          
+          <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-8 transition-all hover:shadow-md">
+            <p className="text-gray-600 mb-6">
+              Aqui estão as imagens que podem ser utilizadas pelo agente para demonstrar resultados de procedimentos.
+            </p>
+            
+            <div className="space-y-6">
+              <div>
+                <h3 className="font-semibold text-gray-800 mb-2">Implante dentário - Antes e depois</h3>
+                <CopyPrompt content="https://dxgfndiyiowflxhnubwi.supabase.co/storage/v1/object/public/bucket1//implante2.png" />
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-gray-800 mb-2">Clareamento - Antes e depois</h3>
+                <CopyPrompt content="https://dxgfndiyiowflxhnubwi.supabase.co/storage/v1/object/public/bucket1//Clareamento.png" />
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-gray-800 mb-2">Prótese</h3>
+                <CopyPrompt content="https://dxgfndiyiowflxhnubwi.supabase.co/storage/v1/object/public/bucket1//protese.png" />
+              </div>
+            </div>
+          </div>
+        </div>
+
         {/* Footer Section */}
       </div>
     </div>
