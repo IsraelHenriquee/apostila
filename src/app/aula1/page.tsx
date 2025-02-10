@@ -9,17 +9,39 @@ export default function Aula1() {
       <div className="max-w-4xl mx-auto p-8">
         {/* Header Section */}
         <div className="text-center mb-12">
-          <div className="inline-flex items-center justify-center gap-4 mb-6">
-            <div className="bg-blue-500 p-4 rounded-2xl shadow-lg">
-              <FaRobot className="text-4xl text-white" />
-            </div>
+          <div className="flex items-center justify-center mb-6">
+            <Image src="/logo.png" alt="Datafy Logo" width={200} height={80} className="rounded-2xl mb-4" />
           </div>
           <h1 className="text-4xl font-bold text-gray-800 mb-4">
-            Agente de Atendimento Clínica Odontológica
+            Workshop Datafy Experience
           </h1>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Crie um Agente de Inteligência Artificial para automatizar e melhorar o atendimento no WhatsApp da sua clínica.
+          <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
+            Aprenda em 3 aulas a criar 3 Agentes de IA para WhatsApp
           </p>
+
+          {/* Navegação */}
+          <div className="flex justify-center gap-4 text-sm">
+            <span className="px-4 py-2 bg-blue-500 text-white rounded-lg">Aula 1</span>
+            <a href="/aula2" className="px-4 py-2 bg-gray-100 hover:bg-gray-200 text-gray-600 rounded-lg transition-colors">Aula 2</a>
+            <a href="/aula3" className="px-4 py-2 bg-gray-100 hover:bg-gray-200 text-gray-600 rounded-lg transition-colors">Aula 3</a>
+          </div>
+        </div>
+
+        {/* Aula Info Section */}
+        <div className="mb-12 text-center">
+          <div className="inline-flex items-center gap-3 text-gray-600 mb-3">
+            <span className="font-medium">Aula 1</span>
+            <span>•</span>
+            <span>10/02</span>
+            <span>•</span>
+            <span className="flex items-center gap-1">
+              <FaYoutube className="text-red-500" />
+              Ao vivo no Youtube
+            </span>
+          </div>
+          <h2 className="text-2xl font-bold text-gray-800">
+            Agente de IA para clínica odontológica
+          </h2>
         </div>
 
         {/* Features Section */}
