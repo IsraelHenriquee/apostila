@@ -1,4 +1,4 @@
-import { FaRobot, FaWhatsapp, FaImages, FaGoogle, FaMobile, FaYoutube } from 'react-icons/fa';
+import { FaWhatsapp, FaImages, FaGoogle, FaMobile, FaYoutube } from 'react-icons/fa';
 import Image from 'next/image';
 import { CopyPrompt } from '@/components/CopyPrompt';
 import { promptBase } from '@/components/PromptBase';

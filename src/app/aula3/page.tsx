@@ -1,6 +1,5 @@
-import { FaRobot, FaDatabase, FaSearch, FaServer, FaYoutube } from 'react-icons/fa';
+import { FaDatabase, FaSearch, FaServer, FaYoutube } from 'react-icons/fa';
 import Image from 'next/image';
-import { CopyPrompt } from '@/components/CopyPrompt';
 
 export default function Aula3() {
   return (

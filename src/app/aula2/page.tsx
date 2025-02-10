@@ -1,6 +1,5 @@
-import { FaRobot, FaWhatsapp, FaImages, FaGoogle, FaMobile, FaYoutube } from 'react-icons/fa';
+import { FaImages, FaRobot, FaYoutube } from 'react-icons/fa';
 import Image from 'next/image';
-import { CopyPrompt } from '@/components/CopyPrompt';
 
 export default function Aula2() {
   return (
