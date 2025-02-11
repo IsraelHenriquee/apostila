@@ -1,4 +1,5 @@
-export const promptBase = `## Implante dentário
+export const promptBase = `
+## Implante dentário
 
 **Visão Geral**
 Os implantes dentários guiados são uma evolução no tratamento de reposição de dentes perdidos. Na Datafy Dental, utilizamos a técnica Datafy Dentes, que possibilita um planejamento digital prévio por meio de tomografia computadorizada e softwares 3D especializados.
@@ -6,33 +7,66 @@ Os implantes dentários guiados são uma evolução no tratamento de reposição
 - Tecnologia de Planejamento: A partir da tomografia, é criado um modelo digital que permite identificar a posição ideal dos implantes.
 - Guia Cirúrgico Personalizado: Fabricado de acordo com o planejamento, posiciona com exatidão o implante, garantindo menor trauma cirúrgico.
 - Menos Invasivo: Em muitos casos, não é necessário fazer cortes extensos na gengiva. Consequentemente, o pós-operatório apresenta menos dor e menos inchaço.
-- Recuperação Acelerada: Por ser menos invasivo, o paciente se recupera mais rapidamente.
+- Recuperação Acelerada: Por ser menos traumático, a cicatrização tende a ser mais rápida.
+- Resultados Estéticos e Funcionais: A precisão no posicionamento assegura um sorriso natural e maior eficiência mastigatória.
 
 **Pontos-Chave para Secretárias e Marketing**
 
-**Ressalte a Tecnologia**: O planejamento digital permite maior previsibilidade e segurança.
+**Destaque o Conforto:** 
 
-**Foque no Conforto**: O procedimento é menos invasivo, resultando em menos dor e recuperação mais rápida.
+Muitos pacientes têm receio de cirurgias. Ressalte que a técnica guiada pode ser mais tranquila, com menor nível de dor e rápida recuperação.
 
-**Explique o Investimento**: Destaque o custo-benefício a longo prazo, comparando com outras opções.
+**Ressalte a Tecnologia Avançada:** 
+
+A ideia de um procedimento planejado no computador transmite segurança e modernidade.
+
+**Explique os Benefícios de Longo Prazo:**
+
+Implantes bem posicionados evitam complicações futuras, oferecem estabilidade e alta durabilidade (estudos indicam taxas de sucesso em torno de 95% ou mais, quando bem planejados e executados).
 
 ---
 
-## Próteses Dentárias
+## Odontologia Estética
 
-Oferecemos diferentes tipos de próteses para atender às necessidades específicas de cada paciente:
+A odontologia estética vai muito além de apenas “embelezar” o sorriso. Ela visa harmonizar a face e melhorar a saúde bucal, abrangendo procedimentos como:
 
-**Próteses Fixas sobre Implante**
-- Aparafusadas diretamente nos implantes
-- Não podem ser removidas pelo paciente
-- Estética e função muito próximas aos dentes naturais
+- Facetas ou Lentes de Contato:
+Finas lâminas de porcelana ou resina que recobrem a parte frontal dos dentes.
+Corrigem formato, cor e espaçamento de forma minimamente invasiva.
+- Clareamento Dental:
+Utilização de agentes clareadores (normalmente à base de peróxido de hidrogênio ou carbamida) para remover manchas e pigmentações.
+Pode ser realizado em consultório ou com moldeiras personalizadas para uso em casa, sempre com acompanhamento profissional.
+- Preenchimentos com Ácido Hialurônico:
+Procedimento estético para contorno e volume em pontos específicos do rosto e lábios.
+Pode corrigir rugas, sulcos e melhorar a simetria facial, contribuindo para uma aparência mais jovem.
+- Bioestimuladores de Colágeno e Fios de PDO:
+Substâncias e fios que promovem a produção de colágeno, melhorando o tônus e a firmeza da pele.
+Ajudam a retardar a flacidez e o envelhecimento facial.
 
-**Próteses Protocolo**
-- Indicadas para pacientes que perderam todos os dentes
-- Fixadas sobre 4 a 8 implantes
-- Oferecem estabilidade e conforto superiores às próteses convencionais
+**Pontos-Chave para Secretárias e Marketing**
 
-**Próteses Removíveis**
+**Enfatize a Harmonia Facial**: 
+
+Muitas pessoas buscam não só dentes brancos, mas um rosto mais equilibrado.
+
+**Explique a Diferença entre Procedimentos**: 
+
+Alguns pacientes podem não entender a diferença entre facetas, clareamento, preenchimentos etc. Ter clareza na explicação gera confiança.
+
+**Cuidados Pós-Procedimento**
+
+Ressalte a importância de seguir orientações de higiene, alimentação e proteção solar (no caso de preenchimentos e fios).
+
+---
+
+## Próteses dentárias (FIXAS E MÓVEIS)
+
+Quando não é possível ou não se deseja realizar implantes, ou mesmo como complemento a eles, existem várias opções de próteses:
+
+- Próteses Fixas (coroas e pontes):
+São cimentadas ou parafusadas em dentes de suporte ou implantes, proporcionando estabilidade e maior conforto.
+Indicadas em casos de perdas parciais ou para reforço de dentes enfraquecidos.
+- Próteses Móveis (totais ou parciais):
 Podem ser removidas para higienização.
 Indicadas para pacientes que não podem passar por cirurgias ou têm limitações ósseas.
 
@@ -40,7 +74,9 @@ Indicadas para pacientes que não podem passar por cirurgias ou têm limitaçõe
 
 **Explique a Diferença de Conforto**: Muitos pacientes têm dúvidas sobre adaptação. Informe que, mesmo com próteses móveis, há períodos de ajuste, mas o objetivo é sempre o conforto e a eficiência mastigatória.
 
-**Destaque a Durabilidade**: Com cuidados adequados, as próteses podem durar muitos anos.
+**Agilidade na Entrega**
+
+Se houver laboratório interno, valorize a rapidez na confecção e ajustes mais precisos.
 
 ---
 
@@ -72,56 +108,68 @@ A área cirúrgica da clínica engloba procedimentos que vão desde extrações 
     
 - **Gengivectomia**:
     
-    Remodelação da gengiva para melhorar a estética do sorriso ou tratar problemas periodontais.
+    Remoção de parte da gengiva para corrigir excessos ou hiperplasias gengivais.
     
-- **Enxertos**:
+- **Gengivoplastia**:
     
-    Procedimentos para aumentar a quantidade de osso ou gengiva, preparando a região para implantes.
+    Remoção e recontorno da gengiva para fins estéticos, harmonizando o sorriso.
+    
+- **Enxertos (ósseos ou gengivais)**:
+    
+    Para reconstrução de tecido ósseo ou gengival, muitas vezes preparatórios para implantes ou correções estéticas.
+    
+- **Instalação de Implantes**:
+    
+    Incluso o protocolo de cirurgias guiadas ou técnicas convencionais, conforme a necessidade do paciente.
+    
 
 **Pontos-Chave para Secretárias e Marketing**
 
-**Explique o Pré-Operatório**: Oriente sobre exames necessários e cuidados antes da cirurgia.
-
-**Destaque a Experiência da Equipe**: Ressalte a formação e especialização dos profissionais.
-
-**Informe sobre o Pós-Operatório**: Explique os cuidados necessários e o tempo de recuperação.
+- **Tranquilize o Paciente**: A ideia de “cirurgia” assusta. Ressalte o uso de anestésicos modernos, sedação consciente (quando disponível) e acompanhamento pós-operatório.
+- **Destaque a Equipe Especializada**: Cirurgiões e periodontistas experientes geram credibilidade.
+- **Orientações de Pré e Pós-Operatório**: Fundamental para reduzir medo e garantir melhor recuperação.
 
 ---
 
-## Atendimento ao Paciente
+## **Clínica Odontológica Geral**
 
-**Primeira Consulta**
+**Atendimento Integral para Toda a Família**
 
-- Avaliação completa da saúde bucal
-- Radiografias e exames necessários
-- Apresentação do plano de tratamento
-- Discussão de custos e opções de pagamento
+- **Limpezas de Rotina (Profilaxia)**: Remoção de placa e tártaro, polimento e aplicação de flúor.
+- **Restaurações**: Correção de cáries ou fraturas com resina ou outros materiais seguros e estéticos.
+- **Extrações Simples**: Sempre que necessário, após avaliação criteriosa.
 
-**Agendamento**
+**Ambiente Acolhedor e Tecnologia Avançada**
 
-- Horários flexíveis
-- Confirmação por WhatsApp
-- Lembretes de consulta
-- Reagendamento com antecedência mínima de 24h
+- Equipamentos modernos para diagnóstico (radiografias digitais, câmeras intraorais etc.).
+- Profissionais atualizados e empáticos, prontos para ouvir preocupações e responder dúvidas.
 
-**Formas de Pagamento**
+**Perguntas Frequentes & Respostas**
 
-- Cartões de crédito e débito
-- Parcelamento em até 12x
-- Desconto para pagamento à vista
-- Convênios selecionados
+1. **Com que frequência devo visitar o dentista?**
+    
+    Idealmente, duas vezes por ano. Mas pode variar conforme o histórico de cada pessoa.
+    
+2. **O que está incluído em uma limpeza dental de rotina?**
+    
+    Remoção de placa e tártaro, polimento dos dentes e aplicação de flúor. Também é feito um exame bucal para identificar eventuais problemas.
+    
+3. **O que fazer em caso de dor de dente?**
+    
+    Marcar consulta imediata. Analgésicos podem aliviar, mas não resolvem a causa. Evitar alimentos extremos (muito quentes ou frios) e manter a região limpa.
+    
+4. **Quais são os sinais de problemas gengivais?**
+    
+    Gengiva vermelha, inchada, sangramento fácil, mau hálito, retração gengival ou mobilidade dentária. Procurar avaliação profissional é essencial.
+    
+5. **Benefícios de exames regulares?**
+    
+    Detecção precoce de problemas, evitando tratamentos invasivos no futuro e mantendo a saúde bucal em dia.
+    
 
 **Pontos-Chave para Secretárias e Marketing**
 
-- **Valorize o Tempo**: Pontualidade e eficiência no atendimento.
-- **Demonstre Empatia**: Compreenda as necessidades e preocupações do paciente.
-- **Mantenha Contato**: Acompanhamento pós-consulta mostra cuidado com o paciente.
-
-**Dicas de Relacionamento**
-
-- **Cadastro Completo**: Mantenha informações atualizadas.
-- **Histórico de Atendimento**: Registre todas as interações.
-- **Feedback**: Solicite avaliações após os procedimentos.
+- **Facilite o Agendamento**: Telefone, WhatsApp, formulário online. Mantenha canais abertos para contato.
 - **Reforce o Acolhimento**: Uso de lembretes de consultas e follow-ups demonstra cuidado.
 - **Programa de Fidelização**: Alguns consultórios oferecem vantagens para pacientes que mantêm check-ups regulares.
 
